@@ -6,10 +6,14 @@ Aspiring Java Developer • Building skills one step at a time
 🚀 Passionate about coding, continuous improvement & new opportunities
 🤝 Always open to learning, collaborating and contributing
 
-**
-🔧 Tech Stack**
+🔧 Tech Stack
+
+Languages: Java, SQL
+Web: HTML, CSS
+Tools & Platforms: Git, GitHub, Eclipse, VS Code
 
 
-**Languages:** Java, SQL
-**Web:** HTML, CSS
-**Tools & Platforms:** Git, GitHub, Eclipse, VS Code
+📫 Connect With Me
+
+LinkedIn: (Add your link here)
+Email: (Add your email here if you want)
