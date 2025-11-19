@@ -1,46 +1,31 @@
-Hi 👋, I'm Chettigiri Monika Priya
+# Hi 👋, I'm Chettigiri Monika Priya
+💻 Aspiring Java Developer • Building skills one step at a time
 
-Aspiring Java Developer • Building skills one step at a time
+## 🌱 About Me
 
-🌱 About Me
+🌱 I’m currently learning Java, SQL, and HTML
+🎓 Completed my MCA at Gate Degree & PG College, SV University
+🚀 Passionate about coding, continuous improvement & new opportunities
+🤝 Always open to learning, collaborating and contributing
 
-I’m currently learning Java, SQL, and HTML
+## 🔧 Tech Stack
 
-Completed my MCA at Gate Degree & PG College, SV University
+### Languages:
 
-Passionate about coding, continuous improvement & new opportunities
+-**Java
+-**SQL
 
-Always open to learning, collaborating, and contributing
+## Web Technologies:
+-**HTML
+-**CSS
 
-contributing
+## Tools & Platforms:
+-**Git
+-**GitHub
+-**Eclipse
+-**VS Code
 
-🔧 Tech Stack
-
-Languages:
-
-Java
-
-SQL
-
-Web Technologies:
-
-HTML
-
-CSS
-
-Tools & Platforms:
-
-Git
-
-GitHub
-
-Eclipse
-
-VS Code
-
-Code
-
-📫 Connect With Me
+### 📫Connect With Me
 
 LinkedIn: (Add your link here)
 Email: (Add your email here if you want)
