@@ -12,20 +12,25 @@
 
 ### Languages:
 
--**Java
--**SQL
+🟦 Java
+
+🟨 SQL
 
 ## Web Technologies:
--**HTML
--**CSS
+🧩 HTML
+
+🎨 CSS
 
 ## Tools & Platforms:
--**Git
--**GitHub
--**Eclipse
--**VS Code
+🐙 GitHub
+
+🔧 Git
+
+🖥️ Eclipse
+
+✨ VS Code
 
 ### 📫Connect With Me
 
-LinkedIn: (Add your link here)
-Email: (Add your email here if you want)
+🔗 LinkedIn: (Add your link here)
+✉️ Email: (Add your email here if you want)
