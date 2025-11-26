@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me  
-- 📘 I’m currently learning **Java, SQL, and HTML**  
+- 📘 I’m currently learning **Java, SQL, and FRONT-END**  
 - 🎓 Completed my **MCA** at Gate Degree & PG College, SV University  
 - 🚀 Passionate about **coding, continuous improvement & new opportunities**  
 - 🤝 Always open to **learning, collaborating, and contributing**  
