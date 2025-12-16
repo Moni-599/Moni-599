@@ -1,5 +1,5 @@
 # Hi 👋, I'm **Chettigiri Monika Priya**  
-💻 Aspiring Java Developer • Building skills one step at a time
+💻 Aspiring Front-end, Python , Java Developer • Building skills one step at a time
 
 ---
 
